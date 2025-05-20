@@ -1,4 +1,5 @@
-﻿using System;
+﻿using busqueda_anton.src.DataStructures;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace busqueda_anton
     {
         static void Main(string[] args)
         {
+            HashTable h = new HashTable();
+            h.PrintTable();
         }
     }
 }

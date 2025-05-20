@@ -8,5 +8,6 @@ namespace busqueda_anton.src.Utils
 {
     internal class Timer
     {
+        
     }
 }
